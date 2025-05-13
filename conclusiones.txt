@@ -1,0 +1,5 @@
+- El endpoint /signup permite crear nuevos usuarios siempre que el nombre no esté registrado.
+- Al intentar registrar un usuario existente, devuelve un mensaje de error como se esperaba.
+- El login con usuario válido devuelve éxito.
+- El login con credenciales incorrectas devuelve un mensaje de error.
+- Las respuestas no siempre usan códigos HTTP estándar (por ejemplo, 200 incluso en fallos).
