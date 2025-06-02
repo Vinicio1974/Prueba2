@@ -3,3 +3,5 @@
 - El login con usuario válido devuelve éxito.
 - El login con credenciales incorrectas devuelve un mensaje de error.
 - Las respuestas no siempre usan códigos HTTP estándar (por ejemplo, 200 incluso en fallos).
+
+
